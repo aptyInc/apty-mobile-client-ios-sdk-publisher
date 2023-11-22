@@ -5,7 +5,7 @@ import PackageDescription
 
 let version = "0.0.1"
 let moduleName = "AptyClient"
-let checksum = "75808086f689ef14c6d43bc661695056c03120060ab14ef308e38c300d8f6866"
+let checksum = "db0db2d0a8c3ec5f78e8199889b3459f242f0462562a4f3e1ee7f6b575c22dfd"
 let url = "https://github.com/aptyInc/apty-mobile-ios-sdk/releases/download/\(version)/AptyClient.xcframework.zip"
 
 let package = Package(
